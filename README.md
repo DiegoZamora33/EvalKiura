@@ -1,5 +1,6 @@
-
 # EvalKiura
+
+![App Icon](src/assets/icons/icon.webp)
 
 ## Descripción
 
