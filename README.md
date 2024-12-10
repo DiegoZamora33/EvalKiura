@@ -90,7 +90,7 @@ EvalKiura/
 - **Promesa simulada**: Empleada para demostrar el consumo de datos en la app mediante una simulación del comportamiento de una API.
 - **Temas dinámicos**: Uso de `useTheme` para detectar y aplicar automáticamente el tema del sistema (oscuro o claro).
 - **Ícono**: Se agregó un ícono ubicado en `src/assets/icons/icon.webp` para personalizar la identidad visual de la aplicación.
-- **Gestor de Estado**: Como la aplicacion es muy sencilla decidi que no esra relevante usar un Gestor de Estado como lo es MobX, Redux, Zustans... he usado solo useState() por cada post en el componente encargado de renderizar el post. Para el uso de algun gestor de estado mas pesado la app tendria que tener requisitos mas exigentes por ejemplo algunos valores de session.
+- **Gestor de Estado**: Como la aplicación es muy sencilla, decidí que no era relevante usar un gestor de estado como MobX, Redux, Zustand, etc. He usado únicamente useState() para manejar el estado de cada post en el componente encargado de renderizarlo. Para utilizar un gestor de estado más robusto, la aplicación tendría que tener requisitos más exigentes, como manejar valores de sesión, por ejemplo.
 
 ---
 
