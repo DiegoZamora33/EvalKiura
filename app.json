@@ -1,4 +1,7 @@
 {
   "name": "EvalKiura",
-  "displayName": "EvalKiura"
+  "displayName": "EvalKiura",
+  "plugins": [
+    "expo-font"
+  ]
 }
